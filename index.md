@@ -1,4 +1,3 @@
 ---
-title: Welcome to my blog
+title: WrawlerBlogs
 ---
-Hello and welcome to my blogs :)
